@@ -1,0 +1,11 @@
+{
+  "name": "@aunz/masonry",
+  "version": "0.0.1",
+  "description": "Masonry component for React",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "KN <aunz10@yahoo.com>",
+  "license": "MIT"
+}
